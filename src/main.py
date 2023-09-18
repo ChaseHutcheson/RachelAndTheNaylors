@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------------- #
 #                                                                              #
 # 	Module:       main.py                                                      #
-# 	Author:       chase                                                        #
+# 	Author:       chase, Landon :3                                                        #
 # 	Created:      9/18/2023, 1:53:00 PM                                        #
 # 	Description:  V5 project                                                   #
 #                                                                              #
